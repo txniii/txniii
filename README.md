@@ -7,4 +7,4 @@
 🌷 #learninginpublic in my digital garden<br/>
 💭 Currently learning about data analytics and dataviz!<br/>
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
