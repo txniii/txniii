@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Electrical and Computer Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying at the New Jersey Institute of Technology, NJ<br>🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>💭 Currently learning about !
+👩🏻‍💻 Electrical and Computer Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying at the New Jersey Institute of Technology, NJ<br>🎨 Making videos about Computer Science, tech, design, and productivity on Instagram<br>💭 Currently working on an app!
 
 
 ## 🌐 Socials:
