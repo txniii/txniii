@@ -1,25 +1,31 @@
 # 💫 About Me:
-👨🏻‍💻 **Electrical & Computer Engineering Technology senior @ NJIT**  
-Passionate about hardware engineering, embedded systems, and the future of automotive technology.  
-🏎️ **Formula 1 career hopeful & die-hard fan**—striving to join the engineering grid, creating the future of automotive performance.  
-🌎 **Community builder:** Community Outreach Chair at NJIT SHPE, champion for tech diversity and outreach.  
-🛠️ I fuse engineering theory with hands-on skills—designing hardware, IoT systems, digital logic, and performance automation.  
-🚀 My portfolio and GitHub are living spaces to document growth, projects, and aspirations.
+👨🏻‍💻 **Electrical & Computer Engineering Technology senior at NJIT** – Apple-style innovator, obsessed with Formula 1, and engineering hardware for the future of automotive and embedded systems.  
+🏎️ **Formula 1 Engineering Aspirant** – Building an engineering career targeting the F1 grid and top tech companies.  
+🌎 **Community Builder & SHPE Outreach Chair** – Champion for diversity, inclusion, and technical leadership in STEM.  
+🛠️ Fusing hands-on hardware skills, elegant product design, and IoT systems to deliver impressive results – the portfolio is a living record of my journey, my growth, and my technical impact.
+
+---
+
+![Profile Picture](./1111.png)
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcobautista/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tx.niiii)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tx.niiii) 
+
+---
+
+![Logo](./M%20(1).png)
 
 ---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=Mathworks&logoColor=orange)
@@ -32,84 +38,76 @@ Passionate about hardware engineering, embedded systems, and the future of autom
 
 ---
 
-## 📈 Highlights & Achievements
-
-- 👑 **Leadership:** SHPE Community Outreach Chair, led beach cleanups, service events, and workshops on embedded tech for diverse audiences
-- 🏆 **Industry Experience:** Technical Project Manager Intern at BlackRock, led automation initiatives for cross-functional tech teams
-- 🎓 **Academic:** ECE Tech @ NJIT (Graduating Spring 2026)
-- 💡 **Projects:** IoT system prototypes, embedded firmware for automotive, F1 telemetry visualizations, interview chatbots, and portfolio dashboards
-- 📜 **Certifications:** Embedded Systems, Digital Logic, Python, IoT, MATLAB (coming soon to the repo)
-- 💬 **Mentorship:** Mentor to first-generation engineers, coach for competitive cheer teams
+## 🔑 Key Competencies:
+C++, Python, IoT, Embedded Systems, PLC, Generative AI, MATLAB, RTOS, Digital Logic, Power Systems, F1 Telemetry, Leadership, Professional Communication, UI/UX, Web Development, Firmware, Hardware Verification
 
 ---
 
-## 🏎️ Formula 1 Obsession
+## 🏅 Certificates
+- **Embedded Systems Specialist** (IoT & Automotive)
+- **Digital Logic Design**
+- **Python for Engineers**
+- **MATLAB Analysis & Simulation**
+- **PLC Programming & Ladder Logic**
+- **Control Systems & Signal Processing**
+- **Community Outreach Leadership – SHPE**
 
-Every detail in my portfolio is inspired by the pursuit of F1—fast data, high reliability, and aesthetic precision.
+---
 
-- ✨ **F1 Section Features:**
-  - 2025/2026 teams, including new Cadillac and Audi entries
-  - Driver grid with interactive, stylized portraits
-  - Animated team logos (Ferrari, Mercedes, Red Bull, McLaren and more)
-  - Championship standings, news headlines, and AI race predictions
-  - Driver career stats and comparison modals
-  - Real-time telemetry simulations and interactive circuit calendar
-  - AI-generated driver histories and storytelling
+## 🏆 Highlights & Achievements
+- **BlackRock TPM Intern:** Automated process workflows for global tech teams
+- **SHPE Leader:** Led beach cleanups, technical workshops, and outreach events
+- **NJIT Mentor:** Guided first-gen engineers & competitive cheer teams
+- **Resume & LinkedIn Automation:** AI-powered job search and profile sync to keep information always fresh
+- **Apple-style Portfolio:** Designed for elegance, minimalism, and high-value technical storytelling
 
 ---
 
 ## 💼 Projects
-
-Dive into my featured work:
-
-- **Embedded Automotive Sensor Platform:** PCB and firmware design, benchmarked for low-latency control
-- **IoT Smart Dashboard:** MCU/ESP32, real-time web interface, mobile support
-- **F1 Telemetry Visualizer:** React + D3.js, race data charting and analysis
-- **Resume & LinkedIn Sync Automations:** Scrapes, updates, and formats job search results
-- **Apple-style Portfolio Website:** Parallax reveals, glassmorphism, and mobile-first design
-
-Explore [my portfolio website](#) for project cards, category filters, demos, and source code!
+- **Automotive Sensor Platform:** Designed for real-time, low-latency telemetry
+- **IoT Smart Dashboard:** Custom ESP32 firmware, web-based control
+- **F1 Telemetry Visualizer:** Data dashboards using React + D3
+- **Portfolio Website:** Parallax glassmorphism design, mobile-ready, LinkedIn sync, and dynamic project cards
+- **F1 Engineering:** Telemetry, ECUs, live performance stats, and prediction
 
 ---
 
-## 🏅 Certifications
+## 🏎️ Formula 1 Section
+**The badge of excellence. My dream: F1 garage engineer.**
 
-- **Embedded Systems Specialist**  
-- **Digital Logic Design**  
-- **Python for Engineering Applications**
-- **IoT Applications & Security**
-- **MATLAB Analysis & Simulation**
-
-*Badge gallery coming soon!*
-
----
-
-## 🧠 Education
-
-- **New Jersey Institute of Technology (NJIT)**
-  - B.S. Electrical & Computer Engineering Technology (Spring 2026)
-  - Key Courses: Digital Logic & Design, Embedded Systems I/II, Computer Architecture, Power Systems, Control Systems, Signal Processing
+- **The Grid:** All 2025 F1 drivers across Ferrari, Mercedes, Red Bull, McLaren, Williams, Racing Bulls, Aston Martin, Haas, Kick Sauber, Alpine, Cadillac (2026), Audi (2026) – each with a stylized portrait, nationality, team, and career stats.  
+- **Team Logos:** Animated SVGs for every team (hover for effect)
+- **Driver Profiles:** Interactive modals with AI-generated career narratives, stats (Titles, Wins, Podiums), and timeline highlights for all 20+ drivers including Sainz, Perez, Antonelli, Lawson, Bortoleto.
+- **Standings:** Live tables for drivers and constructors, always up-to-date
+- **F1 Race Calendar:** Dates, locations, and fast links to circuit info via API
+- **AI Predictions:** See who’s likely to win next, with scores and AI reasoning
+- **Live Feed:** Real-time race highlights & commentary
+- **Comparison Tool:** Compare any two drivers side-by-side, stats and career path visualized
+- **Abstract Background:** Apple-style visualization – aerodynamic flow, track sectors, and technical grid
 
 ---
 
-## 💬 Contact Me
-
-Want to connect or collaborate?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcobautista/)
-[![Email](https://img.shields.io/badge/Email-Marco@NJIT.edu-green?style=for-the-badge)](mailto:marco@njit.edu)
-
----
-
-## 📊 GitHub Stats:
-
+## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marcoabautista&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcoabautista&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoabautista&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
+## 📬 Contact Me
+Let's talk tech, collaborate, or discuss F1 careers!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcobautista/)
+[![Email](https://img.shields.io/badge/Email-Marco@NJIT.edu-green?style=for-the-badge)](mailto:marco@njit.edu)
+**Get in Touch:** [Contact Form](#)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=marcoabautista&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
