@@ -16,8 +16,8 @@
 
 - 🧑‍🏫 **On the grid:** Electrical & Computer Engineering Technology @ NJIT  
 - 🧠 **Race engineer mode:** Embedded systems, real-time control, hardware design, and data acquisition  
-- 🏎️ **Dream paddock:** Formula 1 / motorsport and high‑performance automotive engineering  
-- 📍 **Garage location:** Metuchen, New Jersey, US  
+- 🏎️ **Dream paddock:** Formula 1 /XC motorsport and high‑performance automotive engineering  
+- 📍 **Garage location:** New Brunswick, New Jersey, US  
 - 🎧 **Team radio:** Music production, sports, sim racing, and community mentoring  
 
 ---
