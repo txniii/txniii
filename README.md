@@ -49,15 +49,15 @@ Control systems · Signal processing · Real‑time systems · Telemetry & data 
 
 <p align="center">
   <!-- GitHub stats (replace YOUR_USERNAME) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801&icon_color=FF1801" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=txniii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801&icon_color=FF1801" alt="GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1801&fire=FF1801&currStreakLabel=FFFFFF" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=txniii&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1801&fire=FF1801&currStreakLabel=FFFFFF" alt="GitHub streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txniii&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Garage%20Visits&color=FF1801&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=txniii&label=Garage%20Visits&color=FF1801&style=flat-square" alt="Profile views" />
 </p>
 
 ---
