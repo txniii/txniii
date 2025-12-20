@@ -110,9 +110,11 @@ Some of the “car setups” and tools being developed in the garage (swap names
 
 ### 🏎️ F1 Car “Automation” – Animated race line
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%8F%8E+%F0%9F%9A%8E%E2%9C%A8%E2%80%8D%E2%9A%A1%EF%B8%8F+F1+car+leaving+the+garage...;%F0%9F%9A%8E%E2%9A%A1%EF%B8%8F+Flat+out+down+the+main+straight...;%F0%9F%8F%81+Across+the+line+%7C+New+lap%2C+new+commit." alt="F1 car automation" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1600&pause=450&color=FFFFFF&center=true&vCenter=true&width=820&lines=%F0%9F%8F%8E+%F0%9F%9A%8E+Rolling+out+of+the+garage...;DRS+open+%7C+Flat+out+down+the+main+straight...;Box+box+box+%7C+Deploying+new+feature...;%F0%9F%8F%81+Across+the+line+%7C+New+lap%2C+new+commit." alt="F1 car automation" />
+
+</div>
 
 ---
 
