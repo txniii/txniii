@@ -1,89 +1,116 @@
-# Portfolio Pro // The Interface
+<!--
+   Lights out and away we go 🚦
+   Profile README – F1 x Embedded Systems
+-->
 
-A high-performance personal brand platform engineered for the next generation of motorsport and embedded systems.
+<h1 align="center">🏎️ Marco on the Limit</h1>
+<h3 align="center">Embedded & F1-Tech Enthusiast | Pushing hardware and code to the edge of the envelope</h3>
 
-![React](https://img.shields.io/badge/React-19-blue?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square) ![Gemini](https://img.shields.io/badge/AI-Gemini%202.5-8E75B2?style=flat-square) ![Status](https://img.shields.io/badge/Status-Nominal-success?style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF1801&center=true&vCenter=true&width=600&lines=Lights+out+and+away+we+go!;Embedded+Systems+%7C+IoT+%7C+Control+Systems;F1+engineering+aspirant;Always+chasing+the+perfect+lap" alt="Typing SVG" />
+</p>
 
-## 🏎️ Core Directive
+---
 
-This is not a static resume. It is a **digital twin** of my professional capabilities, designed to demonstrate mastery in full-stack engineering, AI integration, and complex system visualization.
+### 🏁 Formation Lap – Who’s driving?
 
-It serves a singular purpose: **To bridge the gap between embedded hardware engineering and modern web interactivity.**
+- 🧑‍🏫 **On the grid:** Electrical & Computer Engineering Technology @ NJIT  
+- 🧠 **Race engineer mode:** Embedded systems, real-time control, hardware design, and data acquisition  
+- 🏎️ **Dream paddock:** Formula 1 / motorsport and high‑performance automotive engineering  
+- 📍 **Garage location:** Metuchen, New Jersey, US  
+- 🎧 **Team radio:** Music production, sports, sim racing, and community mentoring  
 
-## ⚡ System Capabilities
+---
 
-### 1. Neural Interface (J.A.R.V.I.S.)
-An integrated LLM agent powered by **Google Gemini 2.5 Flash**.
-- **Context-Aware**: Trained on my resume, skills, and specific F1 technical regulations.
-- **Function Calling**: Can fetch live F1 standings, compare drivers, or filter my project database in real-time via the chat interface.
-- **Local Fallback**: Includes a robust heuristic brain if the API connection is severed.
+### 🔧 Car Setup – Tech stack & tools
 
-### 2. F1 Telemetry Hub
-A specialized module for motorsport engineering analysis.
-- **Aero Visualizer**: Custom HTML5 Canvas wireframe engine for interactive aerodynamic surface inspection.
-- **Strategy Engine**: Monte Carlo-inspired logic for race strategy prediction (Tire Degradation vs. Pit Delta).
-- **Pit Stop Sim**: React-based reflex testing tool modeled after actual F1 mechanic light systems.
+**Power unit (core languages):**  
+`C` · `C++` · `Embedded C` · `Python` · `Java` · `MATLAB`
 
-### 3. "Reality Distortion" UI
-Apple-inspired aesthetics meet Stark Industries utility.
-- **Glassmorphism**: Heavy use of backdrop filters, alpha-blending, and noise textures.
-- **Micro-Interactions**: Hover states, magnetic buttons, and scroll-triggered parallax.
-- **Bento Grids**: Information density optimized for rapid visual scanning.
+**Chassis & electronics:**  
+`STM32` · `Arduino` · `Raspberry Pi` · `ESP32` · Sensor interfacing · CAN/serial comms
 
-### 4. Mission Log (Events)
-A dynamic tracking system for professional engagements.
-- **Debrief Mode**: Detailed breakdowns of past conferences (SHPE, ALPFA) with key takeaways and strategic stats.
-- **Upcoming Intel**: "Digital Ticket" style visuals for future mission objectives.
+**Aerodynamics & control:**  
+Control systems · Signal processing · Real‑time systems · Telemetry & data logging
 
-### 5. Network Synchronization
-Background automation that simulates "syncing" with professional networks.
-- **3D Digital Pass**: CSS3D transform-based holographic identity card.
-- **Visual Feedback**: Matrix decoding effects and biometric scanning animations.
+**Garage tools:**  
+`Git` · `GitHub` · `Linux` · `VS Code` · `PlatformIO` · `Multisim` · `Simulink` · PCB design tools
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded-Systems-FF1801?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Control-Systems-000000?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Engineering-20232A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Simulations-FF9E0F?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
-- **Frontend**: React 19, TypeScript
-- **Styling**: Tailwind CSS (JIT Mode)
-- **AI/ML**: Google GenAI SDK (`@google/genai`)
-- **Motion**: CSS3 Animations, Intersection Observer API
-- **Visualization**: SVG, HTML5 Canvas
+---
 
-## 🚀 Deployment Sequence
+### 📊 Pit Wall Telemetry – Stats & activity
 
-```bash
-# Clone the repository
-git clone https://github.com/txniii/portfolio-pro.git
+<p align="center">
+  <!-- GitHub stats (replace YOUR_USERNAME) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801&icon_color=FF1801" alt="GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1801&fire=FF1801&currStreakLabel=FFFFFF" alt="GitHub streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=FF1801" alt="Top languages" />
+</p>
 
-# Install dependencies
-npm install
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Garage%20Visits&color=FF1801&style=flat-square" alt="Profile views" />
+</p>
 
-# Inject API Key (Required for Neural Interface)
-# Create a .env file or export variable
-export API_KEY="your_gemini_api_key"
+---
 
-# Ignite
-npm run dev
-```
+### 🛠️ Garage Projects – Builds & experiments
 
-## 📂 Architecture
+Some of the “car setups” and tools being developed in the garage (replace with real repos and pin them):
 
-```
-src/
-├── components/       # React UI Components (Modular & Atomic)
-│   ├── F1.tsx        # Telemetry & Simulation Engines
-│   ├── Events.tsx    # Conference Logistics & Debriefs
-│   ├── Hero.tsx      # Warp Speed Animations
-│   └── ...
-├── services/         # API Layers
-│   └── gemini.ts     # AI Agent Configuration & Tool Definitions
-├── constants.ts      # Static Data (The "Hard Drive")
-└── types.ts          # TypeScript Interfaces (The "Schema")
-```
+- 🏎️ **ecu-telemetry-hub** – Embedded telemetry logger for CAN‑based systems, streaming real‑time data to a pit‑wall dashboard  
+- 🏎️ **sim-rig-controller** – Custom F1 sim racing wheel and pedal controller with force‑feedback tuning and input filtering  
+- 🏎️ **pit-wall-dashboard** – Web dashboard for live strategy, stint analysis, and driver performance metrics  
+- 🏎️ **power-distribution-lab** – Power quality, distribution, and protection experiments modeled for motorsport‑style electrical systems  
 
-## 📜 License
+> Recruiters and collaborators: the pinned repositories on the profile are the “race highlights” worth checking first.
 
-Designed & Engineered by **Marco Antonio Bautista**.
-Open source for educational purposes.
+---
+
+### 🧩 Engineering Focus – What’s in the notebook?
+
+- ⚙️ Embedded firmware development: drivers, HAL, interrupts, timing, and low‑level debugging  
+- 📡 Telemetry & data: sensor fusion, logging pipelines, and performance analysis  
+- 🔌 Power & reliability: distribution, protection, and fault‑tolerant system design  
+- 🧮 Modeling & control: differential equations, control loops, and simulation‑driven tuning  
+- 🤝 Teamwork: project management, technical documentation, and mentoring in lab environments  
+
+
+---
+
+### 🎮 Off the Grid – When the helmet comes off
+
+- 🕹️ Sim racing & race engineering content (strategy breakdowns, onboards, team radio)  
+- 🎵 Producing and writing music between stints in the lab  
+- 🌍 Community service and mentoring for students getting into engineering and tech  
+
+---
+
+### 🤝 Sponsors & Paddock Passes – Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pit%20Lane%20Chat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Team%20Radio-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Garage-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>If you’re into F1, embedded systems, hardware, or just love the smell of fresh solder and hot tyres in the morning, let’s share some laps together.</em>
+</p>
 
 ---
 *"Speed has never killed anyone. Suddenly becoming stationary, that's what gets you."* — Jeremy Clarkson
