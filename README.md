@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8002D,FF0000,1E1E1E&height=200&section=header&text=Marco%20Antonio%20Bautista&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20Aspiring%20F1%20Engineer&descColor=CCCCCC&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=700&lines=B.S.+Electrical+%26+Computer+Engineering+%E2%80%94+NJIT+%E2%80%9826;Motorsport+Engineer+in+the+Making+%F0%9F%8F%8E%EF%B8%8F;Built+to+Race.+Engineered+to+Win.;From+Lightning+McQueen+to+Formula+1." alt="Typing SVG" />
@@ -113,10 +108,8 @@ Developed a **Formula 1-themed web application** that allows users to plan, visu
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 
 ### 🔌 Electrical & Computer Engineering
-```
-Embedded Systems    │  Data Acquisition    │  PCB Design
-Instrumentation     │  Industrial Controls │  Signal Processing
-```
+`Embedded Systems`    │  `Data Acquisition`    │  `PCB Design`
+`Instrumentation`     │  `Industrial Controls` │  `Signal Processing`
 
 ### 🖥️ CAD & Simulation
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
