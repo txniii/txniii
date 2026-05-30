@@ -54,11 +54,11 @@ It started when I was **4 years old**.
 
 *Cars* (2006). Lightning McQueen. The roar of engines, the blur of speed, the drama of competition. To most kids, it was a movie. To me, it was a **calling**.
 
-That spark never faded. It grew into a passion for real racing, for the engineering stories behind every tenth of a second. I started watching **Formula 1** and became obsessed — not just with who won, but *how*. The aerodynamics, the telemetry, the tire strategies, the relentless iteration.
+That spark never faded. It grew into a passion for real racing, for the engineering stories behind every tenth of a second. I started watching **Formula 1** and became obsessed, not just with who won, but *how*. The aerodynamics, the telemetry, the tire strategies, the relentless iteration.
 
 Formula 1 is the **pinnacle of applied engineering**. Every component is optimized to the atom. Every millisecond is fought for with data. It's a sport where the best engineers in the world compete through machines, and there is nowhere else I want to be.
 
-I've been building toward this my entire life — now it's time to show what I can do.
+I've been building toward this my entire life, now it's time to show what I can do.
 
 ---
 
