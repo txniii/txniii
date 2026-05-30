@@ -22,7 +22,7 @@
 
 ## 🏁 About Me
 
-Hey — I'm **Marco Antonio Bautista**, a freshly minted **B.S. Electrical & Computer Engineer** from the **New Jersey Institute of Technology (NJIT)**, class of **May 22nd, 2026**.
+Hey! I'm **Marco Antonio Bautista**, a freshly minted **B.S. Electrical & Computer Engineer** from the **New Jersey Institute of Technology (NJIT)**, class of **May 22nd, 2026**.
 
 I'm not just someone who loves fast cars. I'm someone who grew up *dreaming* in lap times, who learned to love engineering through the lens of motorsport, and who has spent years building the technical foundation to make that dream a professional reality.
 
