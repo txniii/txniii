@@ -12,8 +12,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-E8002D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcobautista@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Antonio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/txniiii/)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-E8002D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabautista358@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-1E1E1E?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 </div>
