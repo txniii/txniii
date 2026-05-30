@@ -20,7 +20,7 @@
 
 ---
 
-## 🏁 About Me
+## About Me
 
 Hey! I'm **Marco Antonio Bautista**, a freshly minted **B.S. Electrical & Computer Engineer** from the **New Jersey Institute of Technology (NJIT)**, class of **May 22nd, 2026**.
 
@@ -32,7 +32,7 @@ I want to contribute to a team that pushes the limits of what machines and human
 
 ---
 
-## 🛣️ My Journey
+## My Journey
 
 ```
 📍 New Brunswick High School  →  High School Diploma
@@ -48,7 +48,7 @@ From the hallways of New Brunswick to the labs of NJIT, every circuit I designed
 
 ---
 
-## 🏎️ Why Formula 1?
+## Why Formula 1?
 
 It started when I was **4 years old**.
 
@@ -62,7 +62,7 @@ I've been building toward this my entire life, now it's time to show what I can 
 
 ---
 
-## 🔬 Projects
+## Projects
 
 ### 🏎️ Motorsport Vehicle Telemetry Logger
 > *Real-time data acquisition for performance analysis — the kind of system that wins races.*
@@ -91,7 +91,7 @@ Developed a **Formula 1-themed web application** that allows users to plan, visu
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Developed a **Formula 1-themed web application** that allows users to plan, visu
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | 🏅 Certification | Issuing Body |
 |---|---|
@@ -137,7 +137,7 @@ Developed a **Formula 1-themed web application** that allows users to plan, visu
 
 ---
 
-## 🚀 What I'm Working Toward
+## What I'm Working Toward
 
 The checkered flag isn't the end — it's the beginning of the next lap.
 
@@ -152,7 +152,7 @@ I'm not waiting for permission to pursue this dream. I'm building toward it ever
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -162,14 +162,14 @@ I'm actively seeking opportunities to break into motorsport engineering. If your
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-E8002D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcobautista@email.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/txniiii/)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-E8002D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabautista358@gmail.com)
 
 <br/>
 
 ---
 
-*"To finish first, first you must finish. But to make it to the grid — you have to dare to start."*
+*"To finish first, first you must finish. But to make it to the grid, you have to dare to start."*
 
 **— Marco Antonio Bautista, NJIT ECE '26 🏁**
 
