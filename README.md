@@ -108,8 +108,7 @@ Developed a **Formula 1-themed web application** that allows users to plan, visu
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 
 ### 🔌 Electrical & Computer Engineering
-`Embedded Systems`    │  `Data Acquisition`    │  `PCB Design`
-`Instrumentation`     │  `Industrial Controls` │  `Signal Processing`
+`Embedded Systems` │ `Data Acquisition` │ `PCB Design` | `Instrumentation` │ `Industrial Controls`│ `Signal Processing`
 
 ### 🖥️ CAD & Simulation
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
