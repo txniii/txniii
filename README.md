@@ -28,7 +28,7 @@ I'm not just someone who loves fast cars. I'm someone who grew up *dreaming* in 
 
 My goal is simple and unwavering: **to work in Formula 1.**
 
-I want to contribute to a team that pushes the limits of what machines — and humans — can do. I don't need the perfect seat. I need an opportunity to learn, grow, and give everything I have.
+I want to contribute to a team that pushes the limits of what machines and humans can do. I don't need the perfect seat. I need an opportunity to learn, grow, and give everything I have.
 
 ---
 
